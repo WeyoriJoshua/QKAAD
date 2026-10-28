@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+# Quantum path: install compatible Qiskit packages explicitly
+qiskit>=2.0
+qiskit-machine-learning>=0.9
+qiskit-algorithms>=0.4
